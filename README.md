@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Custom CNN for Banana Classification & Ripeness Detection
+#  [Group H] Custom CNN for Banana Classification & Ripeness Detection
 ### A Deep Learning Assignment for CSE366
 
 </div>
